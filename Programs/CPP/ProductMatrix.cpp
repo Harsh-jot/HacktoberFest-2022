@@ -53,8 +53,9 @@ int main()
     {
         for(j=0; j<q; j++)
         {
-            cout<<c[i][j]<<"\n"<<endl;
+            cout<<c[i][j]<<"\n";
         }
+        cout<<endl;
     }
     return 0;
 }
