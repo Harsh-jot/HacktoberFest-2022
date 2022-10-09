@@ -72,7 +72,7 @@ If you are a beginner/pro and you want to contribute or add some amazing project
 And if you want to add some of your amazing projects or your fav programs for open-source, you can add it [here](https://github.com/Harsh-jot/HacktoberFest-2022/tree/main/Programs).
 <br>
 And if you want to add some of your amazing projects or your fav programs for open-source, you can add it here.
-Also you can share your experience of HacktoberFest in [this](https://github.com/Harsh-jot/HacktoberFest-2022/tree/main/Programs).
+Also you can share your experience of HacktoberFest in [this](https://github.com/Harsh-jot/HacktoberFest-2022/tree/main/Experiences).
 
 Lemme Know, if you have any issue or if you've got any Better Ideas to implement in this repo.
 <br>
