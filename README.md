@@ -46,7 +46,7 @@ You can do this in a variety of ways:
 
 -A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
 
--This year, the first 55,000 participants who successfully complete the challenge will be eligible to receive a prize.
+-This year, the first 40,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
 ## Where to Contribute?
 
@@ -57,7 +57,7 @@ Here's a home to your queries and quest for potential issues to contribute. We'v
 
 | Serial No. | Repository  | Issues  | Pull Requests  | Forks |
 |:--|:--|:--|:--|:--|
-| 1. | [Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022) | [![GitHub issues](https://img.shields.io/github/issues/fineanmol/Hacktoberfest2022?color=pink&logo=github&style=flat-square)](https://github.com/fineanmol/Hacktoberfest2022/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/fineanmol/Hacktoberfest2022?style=social&logo=github)](https://github.com/fineanmol/Hacktoberfest2022/pulls) | [![GitHub forks](https://img.shields.io/github/forks/fineanmol/HAdarshAddee/Hacktoberfest2022_for_Beginersacktoberfest2022?color=purple&style=flat-square&logo=git)](https://github.com/fineanmol/Hacktoberfest2022/network/members) |
+| 1. | [Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022) | [![GitHub issues](https://img.shields.io/github/issues/fineanmol/Hacktoberfest2022?color=pink&logo=github&style=flat-square)](https://github.com/fineanmol/Hacktoberfest2022/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/fineanmol/Hacktoberfest2022?style=social&logo=github)](https://github.com/fineanmol/Hacktoberfest2022/pulls) | [![GitHub forks](https://img.shields.io/github/forks/fineanmol/Hacktoberfest2022?color=purple&style=flat-square&logo=git)](https://github.com/fineanmol/Hacktoberfest2022/network/members) |
 | 2. | [Hacktoberfest2022 for Beginners](https://github.com/AdarshAddee/Hacktoberfest2022_for_Beginers) | [![GitHub issues](https://img.shields.io/github/issues/AdarshAddee/Hacktoberfest2022_for_Beginers?color=pink&logo=github&style=flat-square)](https://github.com/AdarshAddee/Hacktoberfest2022_for_Beginers/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/AdarshAddee/Hacktoberfest2022_for_Beginers?style=social&logo=github)](https://github.com/AdarshAddee/Hacktoberfest2022_for_Beginers/pulls) | [![GitHub forks](https://img.shields.io/github/forks/AdarshAddee/Hacktoberfest2022_for_Beginers?color=purple&style=flat-square&logo=git)](https://github.com/AdarshAddee/Hacktoberfest2022_for_Beginers/network/members) |
 | 3. | [Community-Page](https://github.com/OpInCo-Community/OpInCo-Page) | [![GitHub issues](https://img.shields.io/github/issues/OpInCo-Community/OpInCo-Page?color=pink&logo=github&style=flat-square)](https://github.com/OpInCo-Community/OpInCo-Page/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/OpInCo-Community/OpInCo-Page?style=social&logo=github)](https://github.com/OpInCo-Community/OpInCo-Page/pulls) | [![GitHub forks](https://img.shields.io/github/forks/OpInCo-Community/OpInCo-Page?color=purple&style=flat-square&logo=git)](https://github.com/OpInCo-Community/OpInCo-Page/network/members) |
 | 4. | [Cosmos](https://github.com/OpenGenus/cosmos) | [![GitHub issues](https://img.shields.io/github/issues/OpenGenus/cosmos?color=pink&logo=github&style=flat-square)](https://github.com/OpenGenus/cosmos/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/OpenGenus/cosmos?style=social&logo=github)](https://github.com/OpenGenus/cosmos/pulls) | [![GitHub forks](https://img.shields.io/github/forks/OpenGenus/cosmos?color=purple&style=flat-square&logo=git)](https://github.com/OpenGenus/cosmos/network/members) |
@@ -71,6 +71,8 @@ If you are a beginner/pro and you want to contribute or add some amazing project
 <br>
 And if you want to add some of your amazing projects or your fav programs for open-source, you can add it [here](https://github.com/Harsh-jot/HacktoberFest-2022/tree/main/Programs).
 <br>
+And if you want to add some of your amazing projects or your fav programs for open-source, you can add it here.
+Also you can share your experience of HacktoberFest in [this](https://github.com/Harsh-jot/HacktoberFest-2022/tree/main/Experiences).
 
 Lemme Know, if you have any issue or if you've got any Better Ideas to implement in this repo.
 <br>
